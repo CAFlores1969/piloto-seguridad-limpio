@@ -1,0 +1,9 @@
+{
+  "name": "piloto-dependencias-ficticio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Manifiesto de prueba: versión vulnerable intencional; no instalar ni ejecutar.",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
